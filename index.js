@@ -1,6 +1,6 @@
 const api = {
     endpoint: "https://api.openweathermap.org/data/2.5/",
-    key: "f47b9e70cdd1a400eba9709959194787"
+    key: "********************"
 }
 
 const input = document.querySelector("#input");
